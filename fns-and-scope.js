@@ -56,8 +56,10 @@ function welcome(){
 
 
   //Answer Here
+// undefine null 0 false '' NaN
 
-
+//You can check if something if falsy with an "if" statment.
+ 
 
 //////////////////PROBLEM 6////////////////////
 
